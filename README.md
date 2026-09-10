@@ -1,24 +1,62 @@
 # tegratop
 
+[中文版本](./README.cn.md)
+
 📊 A Comprehensive TUI monitoring tool for Nvidia jetson boards
 
-- **Upstream**: <https://github.com/pythops/tegratop>
-- **Homepage**: <>
-- **Latest release**: `v0.2.2` (2025-12-14)
-- **Last commit**: 2025-12-14
-- **License**: GPL-3.0
-- **Stars**: 85 · **Forks**: 8 · **Open issues**: 2 · **Contributors**: 1
+![tegratop](https://repo.x-cmd.io/tegratop.svg)
 
-## Installation
+## Install
 
 ```sh
 x install tegratop
 ```
 
-See <https://x-cmd.com/install/tegratop> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/pythops/tegratop>
+- **License**: GPL-3.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T20:11:23Z._
+- **Latest**: `v0.2.2` (2025-12-14)
+- **Last commit**: 2025-12-14
+- **Assets in release**: 1
+- **Published**: 2025-12-14T21:08:16Z
+
+## Popularity
+
+- **Stars**: 85 · **Forks**: 8 · **Open issues**: 2 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 4 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 34
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 1 | 0 | 0 | 0 | 0 | 3 |
+
+## Code size
+
+Total: **2,215** lines of code across **21** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,190 | 9 | 403 | 18 |
+| Toml | 25 | 0 | 2 | 1 |
+| Markdown | 0 | 47 | 33 | 2 |
+
+## Improve this data
+
+Install metadata for tegratop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tegratop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tegratop.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:55:05Z._
