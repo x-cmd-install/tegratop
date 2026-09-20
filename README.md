@@ -4,7 +4,7 @@
 
 📊 A Comprehensive TUI monitoring tool for Nvidia jetson boards
 
-![tegratop](https://repo.x-cmd.io/tegratop.svg)
+[![x-cmd/install — tegratop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tegratop.svg)](https://x-cmd.com/install/tegratop)
 
 ## Install
 
@@ -45,12 +45,12 @@ Total: **2,215** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last720d | 2024-09-28 | 2 | 1 | 0 | 0 | 0 | 9 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 1 | 0 | 0 | 0 | 0 | 3 |
+| last720d | 2024-09-30 | 2 | 1 | 0 | 0 | 0 | 9 |
 
 ## Release assets
 
@@ -67,4 +67,4 @@ Install metadata for tegratop lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:12:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:00:44Z._
