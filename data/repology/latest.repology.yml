@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: tegratop
+  binname: tegratop
+  visiblename: tegratop
+  version: 0.2.1
+  origversion: 0.2.1-1
+  status: unique
+  summary: TUI monitoring tool for Nvidia Jetson boards
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - GPL-3.0-or-later
