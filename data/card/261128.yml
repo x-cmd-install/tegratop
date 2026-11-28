@@ -1,0 +1,110 @@
+about:
+  description: "📊 A Comprehensive TUI monitoring tool for Nvidia jetson boards"
+  license: GPL-3.0
+  homepage: 
+  head: a276681
+  archived: false
+  latestVersion: "v0.2.2"
+  latestRelease: "v0.2.2"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:30:25Z
+timeline:
+  created: 2024-01-04
+  lastCommit: 2026-11-27
+  lastVersion: 2025-12-14
+  lastRelease: 2025-12-14
+  lastPrerelease: 
+popularity:
+  star: 86
+  watcher: 2
+  fork: 8
+  release: 4
+  contributor: 1
+  pullRequest: 1
+  issue: 2
+language:
+  Rust: 76934
+totalBytes: 76934
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last360d:
+    since: 2025-12-03
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 4
+  last720d:
+    since: 2024-12-08
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 7
+total:
+  release: 4
+  mergedPR: 1
+  openPR: 0
+  closedIssue: 1
+  openIssue: 1
+  commit: 35
+---
+path: /home/runner/.x-repo/github.com/pythops/tegratop
+collectedAt: 2026-11-28T08:30:25Z
+loc:
+  Rust:
+    code: 2195
+    comments: 9
+    blanks: 404
+    files: 18
+  Toml:
+    code: 23
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 47
+    blanks: 33
+    files: 2
+total:
+  code: 2221
+  comments: 56
+  blanks: 439
+  files: 21
+---
+
+---
