@@ -14,12 +14,12 @@ x install tegratop
 
 ## Code insight
 
-Total: **2,215** lines of code across **21** files in the top 5 languages.
+Total: **2,218** lines of code across **21** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 2,190 | 9 | 403 | 18 |
-| Toml | 25 | 0 | 2 | 1 |
+| Rust | 2,195 | 9 | 404 | 18 |
+| Toml | 23 | 0 | 2 | 1 |
 | Markdown | 0 | 47 | 33 | 2 |
 
 ## Source
@@ -30,7 +30,7 @@ Total: **2,215** lines of code across **21** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.2` (2025-12-14)
-- **Last commit**: 2025-12-14
+- **Last commit**: 2026-11-27
 - **Assets in release**: 1
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **2,215** lines of code across **21** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 34
+- **Releases**: 4 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 35
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-02 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last720d | 2024-12-07 | 1 | 0 | 0 | 0 | 0 | 6 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-06-01 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-12-03 | 1 | 0 | 0 | 0 | 0 | 4 |
+| last720d | 2024-12-08 | 1 | 0 | 0 | 0 | 0 | 7 |
 
 ## Release assets
 
@@ -67,4 +67,4 @@ Install metadata for tegratop lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:09:40Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:30:45Z._
